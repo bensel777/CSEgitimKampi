@@ -122,7 +122,7 @@ namespace _02_Variables
 
 
             #endregion
-
+            
             #region Klavyeden Tam Sayı Girişleri ve Dönüşümler
 
             //ABC12D
