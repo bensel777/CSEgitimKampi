@@ -282,7 +282,6 @@ namespace _03_MakingDecision
 
             #endregion
 
-
             #region Switch Case Hesap Makinesi
 
             //int number1, number2, result;
