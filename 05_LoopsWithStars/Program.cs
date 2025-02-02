@@ -162,8 +162,6 @@ namespace _05_LoopsWithStars
 
 
 
-
-
             Console.Read();
         }
     }
